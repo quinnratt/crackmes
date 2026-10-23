@@ -30,7 +30,7 @@ i was confused staring at it for a while
 
 
 &DAT_0040123 didnt really matter
-* 0x72abb3c9 did
+> 0x72abb3c9 did
 
 i attempted entering it constantly in my terminal twice with no avail
 
