@@ -26,8 +26,8 @@ else {
 puts("Wrong password, try agian!");
 return 0;
 ```
-# [<img width="1366" height="768" alt="Untitled" src="https://github.com/user-attachments/assets/2f700f59-0142-4304-9fc0-4a4ad2fe0010" />
-ghidra analysis]
+
+[ghidra analysis]
 <p align="center">
   <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2a20bdb5-4c9b-411b-96ce-b7fd842c0a32" />
 </p>
