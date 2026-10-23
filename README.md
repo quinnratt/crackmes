@@ -1,6 +1,10 @@
 
 # Reverse Engineering thefirsttest by JoeJoeJoe's
 
+**https://crackmes.one/crackme/6abc48c1ace07d1c3fbc4816**
+this was the crackme that was used in this writeup
+
+# Writeup
 opening ghidra i was met with
 
 ```
