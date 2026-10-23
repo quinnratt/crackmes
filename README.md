@@ -53,3 +53,4 @@ WARNING: Please input password twice
  1923855305
 Well done, you are a master hacker!
 ```
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2a20bdb5-4c9b-411b-96ce-b7fd842c0a32" />
