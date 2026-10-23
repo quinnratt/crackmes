@@ -3,6 +3,7 @@
 
 [view joejoejoe's crackme](https://crackmes.one/crackme/6abc48c1ace07d1c3fbc4816)
 
+
 ## Writeup
 opening ghidra i was met with
 
@@ -25,7 +26,8 @@ else {
 puts("Wrong password, try agian!");
 return 0;
 ```
-![ghidra analysis]
+# [<img width="1366" height="768" alt="Untitled" src="https://github.com/user-attachments/assets/2f700f59-0142-4304-9fc0-4a4ad2fe0010" />
+ghidra analysis]
 <p align="center">
   <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2a20bdb5-4c9b-411b-96ce-b7fd842c0a32" />
 </p>
@@ -62,5 +64,7 @@ WARNING: Please input password twice
  1923855305
 Well done, you are a master hacker!
 ```
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2a20bdb5-4c9b-411b-96ce-b7fd842c0a32" />
+
+# [terminal review]
+<img width="1366" height="768" alt="Untitled" src="https://github.com/user-attachments/assets/2852743c-e257-411a-aa6e-ca80aa8c3f63" />
 
